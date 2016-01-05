@@ -36,11 +36,17 @@ The library is Open Source, GPL & AGPL based (GNU Affero General Public License)
 Wiki:
 https://de.wikipedia.org/wiki/GNU_Affero_General_Public_License
 
+Patens
+-------
+Please make sure that you have all patent rights cleared before you start using these tools. For H.264 and HEVC as well for MpegTS, make sure to check
+the rights with MpegLA. For Dolby with Dolby Laboratories, same for AAC with AAC Licesnsing http://www.vialicensing.com/licensing/aac-fees.aspx. 
 
 We included in this release the following command line tools.
 ---------------------
 
-The Bento4 SDK includes several command-line applications/tools that are built using the SDK API. These include:
+These command-line applications/tools that are built using the SDK API. 
+
+These include:
 
 |app name       | description
 |---------------|------------------
@@ -67,6 +73,6 @@ Building
 --------
 
 The code can be built either by MakefileARM. Please make sure that you have the latest ARM Toolchain installed for 64 Bit OS, GCC 4.xx or later and
-also the latest YASM.
+also the latest YASM. These tools are only for ARM based CPU Architecture, it may work with X86 / 64 Bit as well.
 
 Please also make sure that you have Nvidia CUDA SDK, LibAV Libs, OpenSSL installed properly.
