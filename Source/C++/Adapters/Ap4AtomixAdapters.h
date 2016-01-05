@@ -3,6 +3,7 @@
 |    AP4 - Atomix Adapters
 |
 |    Copyright 2002-2008 Axiomatic Systems, LLC
+|    Copyright 2015-2016 Portion for ARM 64 Bit and Nvidia Cuda by G. Hilgemann
 |
 |
 |    This file is part of Bento4/AP4 (MP4 Atom Processing Library).

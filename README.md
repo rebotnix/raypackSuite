@@ -36,10 +36,11 @@ The library is Open Source, GPL & AGPL based (GNU Affero General Public License)
 Wiki:
 https://de.wikipedia.org/wiki/GNU_Affero_General_Public_License
 
-Patens
+Patents
 -------
 Please make sure that you have all patent rights cleared before you start using these tools. For H.264 and HEVC as well for MpegTS, make sure to check
-the rights with MpegLA. For Dolby with Dolby Laboratories, same for AAC with AAC Licesnsing http://www.vialicensing.com/licensing/aac-fees.aspx. 
+the rights with MpegLA, http://www.mpegla.com/SitePages/Home.aspx. For Dolby with Dolby Laboratories, http://www.dolby.com/us/en/professional/licensing.html.
+For AAC Licesnsing visit http://www.vialicensing.com/licensing/aac-fees.aspx. 
 
 We included in this release the following command line tools.
 ---------------------
@@ -76,3 +77,6 @@ The code can be built either by MakefileARM. Please make sure that you have the 
 also the latest YASM. These tools are only for ARM based CPU Architecture, it may work with X86 / 64 Bit as well.
 
 Please also make sure that you have Nvidia CUDA SDK, LibAV Libs, OpenSSL installed properly.
+
+
+If you need custom development, patent clearing help or other support, please contact us: http://connectlounge.de/contact-us-2/?lang=en

@@ -3,6 +3,7 @@
 |    Bento4 - C API Implementation
 |
 |    Copyright 2002-2008 Gilles Boccon-Gibod & Julien Boeuf
+|    Copyright 2015-2016 Portion for ARM 64 Bit and Nvidia Cuda by G. Hilgemann
 |
 |
 |    This file is part of Bento4/AP4 (MP4 Atom Processing Library).
