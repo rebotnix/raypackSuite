@@ -79,4 +79,4 @@ also the latest YASM. These tools are only for ARM based CPU Architecture, it ma
 Please also make sure that you have Nvidia CUDA SDK, LibAV Libs, OpenSSL installed properly.
 
 
-If you need custom development, patent clearing help or other support, please contact us: http://connectlounge.de/contact
+If you need custom development, patent clearing help or other support, please contact us: https://connectlounge.de/contact
